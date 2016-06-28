@@ -1,0 +1,23 @@
+/**
+ * Created by greg on 28/06/16.
+ */
+
+{
+  "name": "khepri/connector",
+  "description": "Ease Access to the Khepri technology",
+  "version": "0.0.1",
+  "authors": [
+    {
+      "name": "Gregory Gerard",
+      "email": "gregory.gerard@wister.fr",
+      "role": "Developer"
+    }],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/khepri-dev/KhepriConnectorPhp.git"
+    }
+    "require":{
+      "php": "^5.3.3 || ^7.0",
+    }
+}
